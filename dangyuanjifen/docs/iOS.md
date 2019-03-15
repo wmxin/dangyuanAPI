@@ -8,7 +8,8 @@
 
 **客户端可以在苹果应用商店（App Store）中搜索关键字“党员积分”，点击第一个 APP 下载安装即可，如下所示：** 
 
-![Alt text | 300x0](../docs/images/1.jpg)
+<img src="../docs/images/1.jpg" width='300'>
+
 
 ## 二、用户登录注册
 
@@ -17,32 +18,32 @@
 所有用户首先要先录入系统才有资格进入，在系统后台：进入用户仓库 >> 选择添加
 新用户 >> 输入用户的真实姓名和身份证号。
 
-![Alt text | 300x0](../docs/images/2.jpg)
+<img src="../docs/images/2.jpg" width='300'>
 
 ### 注册
 
 打开手机软件，如果没有在软件中注册过账号，请先选择注册账号。
 
-![Alt text | 300x0](../docs/images/3.jpg)
+<img src="../docs/images/3.jpg" width='300'>
 
 注册首先输入在后台录入的真实姓名和身份证号，验证是否有资格注册。
 
-![Alt text | 300x0](../docs/images/4.jpg)
+<img src="../docs/images/4.jpg" width='300'>
 
 接着必须要选择输入：
 头像、手机号、性别、籍贯、民族、入党时间、党内职务、所在支部和所在小组，以及可选输入参加工作时间、工作岗位、学历等，接着选择下一步。
 
-![Alt text | 300x0](../docs/images/5.jpg)
+<img src="../docs/images/5.jpg" width='300'>
 
 最后填写获取了的短信验证码，以及输入两次登陆密码，最后注册完成。
 
-![Alt text | 300x0](../docs/images/6.jpg)
+<img src="../docs/images/6.jpg" width='300'>
 
 ### 登录
 
 打开手机软件，输入注册的手机号和密码，登陆系统。
 
-![Alt text | 300x0](../docs/images/7.jpg)
+<img src="../docs/images/7.jpg" width='300'>
 
 ## 三、首页模块
 
@@ -53,30 +54,27 @@
 中间部分是系统添加的月度计划；
 下部分是最新的会议和活动列表；
 
-![Alt text | 300x0](../docs/images/8.jpg)
-
+<img src="../docs/images/8.jpg" width='300'>
 
 ### 创建会议或活动
 
 在首页选择右上角添加会议。
 
-![Alt text|300x0](../docs/images/9.jpg)
-
+<img src="../docs/images/9.jpg" width='300'>
  在添加会议页面选择会议类型，或者输入自定义会议名称，选择会议参与人员，输入会议的主题、日期时间和地点以及备注。
 
-![Alt text |300x0](../docs/images/10.jpg)
-
+<img src="../docs/images/10.jpg" width='300'>
 
 ### 查看会议或活动详情
 
 在首页-近期安排可以查看会议详情。
 
-![Alt text|300x0](../docs/images/11.jpg)
-
+<img src="../docs/images/11.jpg" width='300'>
  在会议详情页面，会议开始前20分钟，如果需要请假可以请假，由会议创建者在会议详情页面点击请假审核审核。参加会议室在会议开始前后20分钟可以点击签到。会议结束后，（会议发起人）可选择参会人员进行打分。
 
-![Alt text|300x0](../docs/images/12.jpg)
-![Alt text|300x0](../docs/images/13.jpg)
+<img src="../docs/images/12.jpg" width='300'>
+
+<img src="../docs/images/13.jpg" width='300'>
 
 ## 四、党员积分模块
 
@@ -84,28 +82,30 @@
 
 此模块首页显示所有人员列表，以及每个人的积分总和。
 
-![Alt text|300x0](../docs/images/14.jpg)
+<img src="../docs/images/14.jpg" width='300'>
 
 ### 党员积分打分
 
 由每个小组组长每月对成员进行打分。
 
-![Alt text|300x0](../docs/images/15.jpg)
-![Alt text|300x0](../docs/images/16.jpg)
+<img src="../docs/images/15.jpg" width='300'>
+
+<img src="../docs/images/16.jpg" width='300'>
 
 党小组长打分过后，由党支部书记对打分结果进行审核。
 
-![Alt text|300x0](../docs/images/17.jpg)
+<img src="../docs/images/17.jpg" width='300'>
 
 ### 党员积分排行榜
 
 点击模块首页右上角按钮，可以查看所在支部积分的排行情况；
 切换不同党支部，可以查看其它支部排行情况。
 
-![Alt text|300x0](../docs/images/19.jpg)
-![Alt text|300x0](../docs/images/20.jpg)
-![Alt text|300x0](../docs/images/21.jpg)
+<img src="../docs/images/19.jpg" width='300'>
 
+<img src="../docs/images/20.jpg" width='300'>
+
+<img src="../docs/images/21.jpg" width='300'>
 
 
 ## 五、学习教育模块
@@ -114,10 +114,11 @@
 
 点击文章列表，查看文章详情；在文章详情底部，可以查看其它人的评论以及发布自己的评论；点击右上角可以分享到微信好友或者微信朋友圈。
 
-![Alt text|300x0](../docs/images/22.jpg)
-![Alt text|300x0](../docs/images/23.jpg)
-![Alt text|300x0](../docs/images/24.jpg)
+<img src="../docs/images/22.jpg" width='300'>
 
+<img src="../docs/images/23.jpg" width='300'>
+
+<img src="../docs/images/24.jpg" width='300'>
 
 
 ## 六、支部争先模块
@@ -126,17 +127,17 @@
 
 不同级别的人模块是不一样的，小组长及以下的人界面如图所示，只能查看支部积分；
 
-![Alt text|300x0](../docs/images/25.jpg)
+<img src="../docs/images/25.jpg" width='300'>
 
 党支部书记模块首页上半部分可进行支部自评以及上传佐证材料的操作，下半部分是每个季度各个支部的得分情况；
 
-![Alt text|300x0](../docs/images/26.jpg)
-
+<img src="../docs/images/26.jpg" width='300'>
 
 点击右上角排行榜，选中党支部列表自己所属的党支部，查看支部内部排行情况。
 
-![Alt text|300x0](../docs/images/27.jpg)
-![Alt text|300x0](../docs/images/28.jpg)
+<img src="../docs/images/27.jpg" width='300'>
+
+<img src="../docs/images/28.jpg" width='300'>
 
 ## 七、我模块
 
@@ -144,71 +145,76 @@
 
 包含了修改个人信息、修改手机号、每日签到等功能，以及还有我参加或者创建的会议和活动、我的个人加分项、需要我审核的内容。
 
-![Alt text|300x0](../docs/images/29.jpg)
-
+<img src="../docs/images/29.jpg" width='300'>
 
 ### 修改个人信息
 
 修改部分个人工作信息，点击头像所属部分，进入我的个人信息，点击右上角的笔来编辑个人信息。
 
-![Alt text|300x0](../docs/images/30.jpg)
-![Alt text|300x0](../docs/images/31.jpg)
-![Alt text|300x0](../docs/images/32.jpg)
+<img src="../docs/images/30.jpg" width='300'>
+
+<img src="../docs/images/31.jpg" width='300'>
+
+<img src="../docs/images/32.jpg" width='300'>
 
 ### 个人积分
 
 点击签到，增加积分；
 点击查看积分明细，查看个人所得积分。
 
-![Alt text|300x0](../docs/images/33.jpg)
-![Alt text|300x0](../docs/images/34.jpg)
+<img src="../docs/images/33.jpg" width='300'>
 
+<img src="../docs/images/34.jpg" width='300'>
 
 ### 我的会议
 
 分别列出了我参与的会议，以及我发起的会议，点击查看详情。与首页的近期安排同步
 
-![Alt text|300x0](../docs/images/35.jpg)
-![Alt text|300x0](../docs/images/36.jpg)
+<img src="../docs/images/35.jpg" width='300'>
 
+<img src="../docs/images/36.jpg" width='300'>
 
 ### 我的活动
 
 分别列出了我参与的活动，以及我发起的活动，点击查看详情。
 
-![Alt text|300x0](../docs/images/37.jpg)
-![Alt text|300x0](../docs/images/38.jpg)
+<img src="../docs/images/37.jpg" width='300'>
+
+<img src="../docs/images/38.jpg" width='300'>
 
 ### 我的加分项
 
 个人的加分项。
 
-![Alt text|300x0](../docs/images/39.jpg)
-![Alt text|300x0](../docs/images/40.jpg)
+<img src="../docs/images/39.jpg" width='300'>
 
+<img src="../docs/images/40.jpg" width='300'>
 
 添加个人加分项，点击右上角选择项目，输入证书类型，备注，以及上传材料（照片）。
 
-![Alt text|300x0](../docs/images/41.jpg)
-![Alt text|300x0](../docs/images/42.jpg)
 
+<img src="../docs/images/41.jpg" width='300'>
+
+<img src="../docs/images/42.jpg" width='300'>
 
 
 ### 我的审核
 
 审核分别是会议加分审核以及个人荣誉审核，点击查看详情，进行审核。
 
-![Alt text|300x0](../docs/images/43.jpg)
-![Alt text|300x0](../docs/images/44.png)
-![Alt text|300x0](../docs/images/45.png)
+<img src="../docs/images/43.jpg" width='300'>
 
+<img src="../docs/images/44.png" width='300'>
+
+<img src="../docs/images/45.png" width='300'>
 
 ### 修改手机号以及密码
 
 点击右上角，可进行设置，修改手机号，密码，以及清除缓存以及退出登录。
 
-![Alt text|300x0](../docs/images/46.jpg)
-![Alt text|300x0](../docs/images/47.jpg)
+<img src="../docs/images/46.jpg" width='300'>
+
+<img src="../docs/images/47.jpg" width='300'>
 
 ## 八、权限设置
 
@@ -253,13 +259,21 @@
 >**党支部书记**
 
 可获得个人积分的项目：
+
 每日签到：+0.5
+
 月度质量：审核者自定义加分
+
 会议质量：审核者自定义加分
+
 活动质量：审核者自定义加分
+
 弹性调整：审核者自定义加分
+
 获得荣誉：审核者自定义加分
+
 文章评论：+0.5
+
 党员之星：审核者自定义加分
 
 
